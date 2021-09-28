@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".git/COMMIT_EDITMSG"
-hash = "b11d414889f4a9ab2cea667d1663063a65fdf7d96b2365a20cfe2fed48f1a3eb"
+hash = "ec7890fbf36e1924e2c7d399eda3e8932896c678cb57ca6e30af19a34e03805b"
 
 [[files]]
 file = ".git/HEAD"
@@ -70,7 +70,7 @@ hash = "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
 
 [[files]]
 file = ".git/index"
-hash = "f06516dfe23683d96508be9877b040412df40b70090966ff11c0fa38705fc8f4"
+hash = "416f08418d5820f7efc8a36ad217050fe8ca59d4fcd29ad08f8b9375d0e952b2"
 
 [[files]]
 file = ".git/info/exclude"
@@ -78,11 +78,11 @@ hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
 
 [[files]]
 file = ".git/logs/HEAD"
-hash = "0b5aea3c732edf8cc70389a2206a18f796de96ac525cb9afea24f911d874e184"
+hash = "de65c9634e06089da01a545b3a154214ee5670d32ab98cf0c52f34834bf87796"
 
 [[files]]
 file = ".git/logs/refs/heads/main"
-hash = "0b5aea3c732edf8cc70389a2206a18f796de96ac525cb9afea24f911d874e184"
+hash = "de65c9634e06089da01a545b3a154214ee5670d32ab98cf0c52f34834bf87796"
 
 [[files]]
 file = ".git/logs/refs/remotes/origin/HEAD"
@@ -90,7 +90,7 @@ hash = "196ba75cd85e0518cba89fe7dd5c59d7f30bdbff01f0b8e9e4b57b4307b9ecc8"
 
 [[files]]
 file = ".git/logs/refs/remotes/origin/main"
-hash = "d4457ba302ffe058edf9a694e2dcf4d8b718f74315735076c8f449de6d369cc6"
+hash = "bb002dd641c26a15df910050ade3fe7a7cf705848c69e86cf1931440dfac48db"
 
 [[files]]
 file = ".git/objects/06/2913487ffe694cd211c9acdc8b785bc4b4cd11"
@@ -105,6 +105,10 @@ file = ".git/objects/0e/3f5b6849210c46651cce621c0006a3e9e00405"
 hash = "59b7c39a9d3b61bfaea328918362a235f308c921826f1382f1adcc020fd30baa"
 
 [[files]]
+file = ".git/objects/12/b33adae26ea476486c95a34c8f7d8c9b8caf7d"
+hash = "3770505c26baf0044d169032d856a579ffa564bce3a7e86eb9d35d356d266bbb"
+
+[[files]]
 file = ".git/objects/1d/3d07c0fced17aed234a8f4ebf5074e5dbf00a6"
 hash = "d34cd9aee357bc40f3163a6387fb09fc7cb528d7063976cd63283b119b740302"
 
@@ -115,6 +119,10 @@ hash = "6feae3878f8b77600f2d641bba8fbe9a2ab078078d1e49a276520ef0cf4814ed"
 [[files]]
 file = ".git/objects/29/ecf9bdc83c640af7c84816f28eedb8ab53b0c0"
 hash = "d457dbc485fb91c5697e43097820837b4934f5d0c6ee4b3426365a3da13916f7"
+
+[[files]]
+file = ".git/objects/2f/8e17b80968eb091e06c5b1d978d13fb044e272"
+hash = "0fc3139782a5bd78120bbf9e8687568ab0fa5ae3736ba434931c10446165295c"
 
 [[files]]
 file = ".git/objects/34/7f091d3832c5bc4a9e06609e8fff9fa95e5aaa"
@@ -165,8 +173,16 @@ file = ".git/objects/79/fd43d488755e71a292e00ba9933f595fd7d0e2"
 hash = "9fcf5993076ed9c155dc14070e277ffccd864182fdf3919e3f38470180f6ea87"
 
 [[files]]
+file = ".git/objects/80/4812bf3fc941eb8adf709acf54594a34341baa"
+hash = "8584b29e931d6141c4290083a0387172e2c3fa5bfb16146600851eab39045112"
+
+[[files]]
 file = ".git/objects/85/e0be8b3e8226f0076f52c2f26cb9d349c77cbe"
 hash = "1f5db93eb0de7ae17dac9fa48b0e5baf9f20f1eb937afc8945af3998a0097cc4"
+
+[[files]]
+file = ".git/objects/90/1d52f077c3015d9d6b8d62fdab6e2381eb79d6"
+hash = "142b51e4c4f96865d8978621da3d98198deacac08dc4866424aa4b649760b44a"
 
 [[files]]
 file = ".git/objects/91/a324d4c81cb108833a965ca7680cfb1c19617b"
@@ -270,7 +286,7 @@ hash = "5941d7237a87b46848365c7c434cc124d9aa95fa15d8a3fb3a01730c4fb304ef"
 
 [[files]]
 file = ".git/refs/heads/main"
-hash = "0a32e7b71407ce5de9fccedf171b39bbd6ece98d288c8576bd9badac4b817ec4"
+hash = "bc046d1691ba49bbf25c112e8711cddfd1a292a5bf3e196a4f9987f23477bac0"
 
 [[files]]
 file = ".git/refs/remotes/origin/HEAD"
@@ -278,7 +294,7 @@ hash = "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
 
 [[files]]
 file = ".git/refs/remotes/origin/main"
-hash = "0a32e7b71407ce5de9fccedf171b39bbd6ece98d288c8576bd9badac4b817ec4"
+hash = "bc046d1691ba49bbf25c112e8711cddfd1a292a5bf3e196a4f9987f23477bac0"
 
 [[files]]
 file = "README.md"
@@ -313,10 +329,6 @@ metafile = true
 file = "mods/custom-splash-screen.toml"
 hash = "595d94e00290e2f04e1accbaf1aee0becaf878f991275ebd8e166e29f2d5d9bb"
 metafile = true
-
-[[files]]
-file = "mods/dashloader.toml.disabled"
-hash = "c5dce804240dcabfe84cd769aa909ac65d1db9cea105231ecd9b9ea41c2c19b6"
 
 [[files]]
 file = "mods/dynamic-fps.toml"
