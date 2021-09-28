@@ -1,0 +1,145 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bobby.toml"
+hash = "b991305d41a724191ca442c7af916b2203ad7385ce0a90b46ed1f0f39af490ff"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "e3399090ebadd4ed5c6353533544a479ae532a1d12f5c6a73edfce107aec3a83"
+metafile = true
+
+[[files]]
+file = "mods/clear-skies.toml"
+hash = "5717ab344e0fdeff258e2c3fa6a1421412b7bd70c32d224b4bedbde266e15de0"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "9967418e8b8d124b9463b70df0e27215ab0ac11a555304dfbb73db6bbd099539"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+hash = "949e0de2896ac82175518eb576da1de72ba3992a1f895d7ea35c321e0dc382e1"
+metafile = true
+
+[[files]]
+file = "mods/custom-splash-screen.toml"
+hash = "595d94e00290e2f04e1accbaf1aee0becaf878f991275ebd8e166e29f2d5d9bb"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.toml"
+hash = "c5dce804240dcabfe84cd769aa909ac65d1db9cea105231ecd9b9ea41c2c19b6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "3f631c9e944a855a409158820f38aba9f587fb829a45351958b18de45118b2dc"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "450534bf737e8f9929d5fb867fc06f14e60df5299e67ca4ae2b85a6a54970811"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.toml"
+hash = "b7bdc8b8fc1892a98140e8d62d7496654e8215f5fd6fca591214bb1067acbaa6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
+file = "mods/kappa.toml"
+hash = "f6636dc3dee06f7ddc488296d42427ae6eaa6310d3fdfd716230d62adb765f16"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "01f54d293d1008f22f8cfc9a43b4c8e5473d882c2ed7ca667cbcf55ae4d638bc"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "374c4eb4d5733928e6a3aed28625bb28f6e2bcb1f17a2077577ab555e2b37c94"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.toml"
+hash = "c90a2f935c95f0005e2b940bff870b4e4a182ca6fdf0360a2663327723465e2c"
+metafile = true
+
+[[files]]
+file = "mods/modmanager.toml"
+hash = "acdca2599a002f84d168f4106859cf65c73f8a305bb81e11e898f0e92595720d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "c4dc43e97d2fd9399a02084cef47a1e0989c9f0e45fc79922f934b047dd22534"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.toml"
+hash = "d63993a4644aa7ad6e704063a7c3c08aed0cba8942b9c6fe6f0b6d0f2daba753"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.toml"
+hash = "b1a04aa78cf9129508dca11bdd1e9eb61d23be0545cf46b3887d6283fd840dcd"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.toml.disabled"
+hash = "f984f6058cfe0ca2c4bedb5f2b0306c76368890e530866cdcfc3a97711cdd9ae"
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "994eda116254db865384ca9ebb0c4e9f459edbac67483b2f1582955618a5c6dd"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
+metafile = true

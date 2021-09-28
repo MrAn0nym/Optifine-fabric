@@ -1,0 +1,12 @@
+name = "Optifinefabric"
+author = "namenlosxy"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f3bd40e0819ca42a282a7c1dfc6d04b0b7f4346ab41487474306cb8a10028e9b"
+
+[versions]
+fabric = "0.11.7"
+minecraft = "1.17.1"

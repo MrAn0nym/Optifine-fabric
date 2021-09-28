@@ -1,0 +1,13 @@
+name = "DashLoader"
+filename = "dashloader-2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/2.0/dashloader-2.0.jar"
+hash-format = "sha512"
+hash = "22f22b32a131263951bf77e9a7be798fc4ca1f79d2138b9570d6dd1c4fb55121e8cee8e0420e2d04e79b8a58e77eb3f55a5c06aaaf40949658cbb056d58c476e"
+
+[update]
+[update.modrinth]
+mod-id = "ZfQ3kTvR"
+version = "k9vsytTC"

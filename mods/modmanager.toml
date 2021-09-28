@@ -1,0 +1,13 @@
+name = "Mod Manager"
+filename = "modmanager-1.0.2+1.17-alpha.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com//data/6kq7BzRK/versions/1.0.2+1.17-alpha/modmanager-1.0.2+1.17-alpha.jar"
+hash-format = "sha512"
+hash = "24661776bab56c8e77abaac3c66219e01742de2a0e9433945bfd1a6d284b1dd41e891f1d9c62f30c8f34688525e2c784e84e8720bde9355b2d7efa5e4fb53d2d"
+
+[update]
+[update.modrinth]
+mod-id = "6kq7BzRK"
+version = "CdhVgHal"
