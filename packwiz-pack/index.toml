@@ -16,6 +16,11 @@ hash = "5717ab344e0fdeff258e2c3fa6a1421412b7bd70c32d224b4bedbde266e15de0"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.toml"
+hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+metafile = true
+
+[[files]]
 file = "mods/continuity.toml"
 hash = "9967418e8b8d124b9463b70df0e27215ab0ac11a555304dfbb73db6bbd099539"
 metafile = true
@@ -92,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/libjf.toml"
+hash = "e75e445a939051b3aa5e35b953bbc92208cec5944a68def0628a80f34817b37f"
 metafile = true
 
 [[files]]

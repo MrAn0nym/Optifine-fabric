@@ -1,0 +1,13 @@
+name = "LibJF"
+filename = "libjf-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com//data/WKwQAwke/versions/1.2.3/libjf-1.2.3.jar"
+hash-format = "sha512"
+hash = "280e0e3cdc1f9a41a84453ac6d3f8514c0484a2735e83b0bfde29b951100ff713802c8671a7b26514a0750723854f20cd641009b47d90fd1f0adb416ed3fd716"
+
+[update]
+[update.modrinth]
+mod-id = "WKwQAwke"
+version = "a08blpcS"
