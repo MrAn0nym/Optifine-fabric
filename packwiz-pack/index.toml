@@ -66,6 +66,10 @@ hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
 
 [[files]]
+file = "mods/iris-fabric-starline.jar"
+hash = "7a0693a48723e1916fde6b80b27c500008017f05d9f03fb3084297b8034a48b7"
+
+[[files]]
 file = "mods/kappa.toml"
 hash = "f6636dc3dee06f7ddc488296d42427ae6eaa6310d3fdfd716230d62adb765f16"
 metafile = true
@@ -133,6 +137,10 @@ hash = "f984f6058cfe0ca2c4bedb5f2b0306c76368890e530866cdcfc3a97711cdd9ae"
 file = "mods/sodium-extra.toml"
 hash = "994eda116254db865384ca9ebb0c4e9f459edbac67483b2f1582955618a5c6dd"
 metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-starline.jar"
+hash = "fc6ed7b463c0f139facc280ae52223a4a596135de88c517fe831e4344cb71bb6"
 
 [[files]]
 file = "mods/starlight.toml"
