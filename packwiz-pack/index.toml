@@ -307,9 +307,12 @@ hash = "6780714a86292a515538fb6c444e4ee74df1eda55faa5c9a5dff82a05d0ef703"
 metafile = true
 
 [[files]]
-file = "mods/sword-blocking.toml"
-hash = "b0318c8f8c3bed802fbfa44cda9a642c284093a2dc283357e30ab6498c3a7890"
-metafile = true
+file = "mods/sword-blocking.toml.disabled"
+hash = "503e02f181f35d82b51dc93b89ad9630a87db2b060fed4580768f6d5ea634874"
+
+[[files]]
+file = "mods/swordblocking-1.1.0.jar"
+hash = "07688f4025f9cbccaea1409e91dba313c915b083a01404a63a4ed6694eedda71"
 
 [[files]]
 file = "mods/visual-overhaul.toml"
