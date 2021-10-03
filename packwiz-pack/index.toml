@@ -328,3 +328,7 @@ metafile = true
 file = "mods/worldedit.toml"
 hash = "11dedbca3347dd2c38ef4324ed1453f7098914d28dfcd239bca5be363bc51432"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3dd57f1309371547b2ebcf24d6dbad10bbf76f90af9a86f5b2a38ec2e4bf42ac"
