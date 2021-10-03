@@ -1,0 +1,13 @@
+name = "Pick-BlockState"
+filename = "pickblockstate-1.0.0+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GG6LKDBX/versions/v1.0.0+1.17/pickblockstate-1.0.0+1.17.jar"
+hash-format = "sha512"
+hash = "e7e5619bcfef30d4265f88de57e28e4ba2c4c7046cbb8ecb1c8b47a4cd0b0be258f64bc512225376377ffae19fe38131574c70545015e8c3412bc525a70a7427"
+
+[update]
+[update.modrinth]
+mod-id = "GG6LKDBX"
+version = "ilmDjeDi"

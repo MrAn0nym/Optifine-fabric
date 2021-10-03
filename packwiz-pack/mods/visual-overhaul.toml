@@ -1,0 +1,13 @@
+name = "Visual Overhaul"
+filename = "visualoverhaul-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YQnwl5Vv/versions/3.3.0/visualoverhaul-3.3.0.jar"
+hash-format = "sha512"
+hash = "48047d03e03534a0dd3a4d9ffa0269f19a5f979bb70c0ec654363b6e9043de9fe4dfd9db93f28d7a7052bb4266ae8c8995a6f83b979021032744bf04ab43c4b1"
+
+[update]
+[update.modrinth]
+mod-id = "YQnwl5Vv"
+version = "JhRfkHGc"

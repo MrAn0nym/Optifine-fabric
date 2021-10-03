@@ -1,0 +1,13 @@
+name = "Colormatic"
+filename = "colormatic-2.3.0+mc.1.17.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V4IQxkZC/versions/2.3.0/colormatic-2.3.0+mc.1.17.1.jar"
+hash-format = "sha512"
+hash = "94f923be3188206e39fcaf59087ad176c93f2135f1f7afd27610b18c64d4e9e5400c0999357cf23868e4f1d6c7c891fee7d25cf5397ed146bc643474b394bd00"
+
+[update]
+[update.modrinth]
+mod-id = "V4IQxkZC"
+version = "N6DYKvQb"
