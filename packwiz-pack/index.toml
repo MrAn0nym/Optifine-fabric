@@ -249,9 +249,8 @@ hash = "2c51aaf31325ba2bdf722b275cd1e684e3d3c9b6d63102b92670cdf490a5bada"
 metafile = true
 
 [[files]]
-file = "mods/no-fade.toml"
-hash = "205f386f85a93db725ffb0e87404dd4aee6339c260a5c135bad6408af064e683"
-metafile = true
+file = "mods/no-fade.toml.disabled"
+hash = "8e9a6b5ec3e98117f8aa14389d57266b99d910ccb7f2d7f78f60ac88735fe7af"
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
@@ -277,10 +276,6 @@ metafile = true
 file = "mods/respackopts.toml"
 hash = "b1a04aa78cf9129508dca11bdd1e9eb61d23be0545cf46b3887d6283fd840dcd"
 metafile = true
-
-[[files]]
-file = "mods/respackopts.toml.disabled"
-hash = "f984f6058cfe0ca2c4bedb5f2b0306c76368890e530866cdcfc3a97711cdd9ae"
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
