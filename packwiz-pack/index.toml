@@ -219,9 +219,8 @@ hash = "4551539b96ebf730cd9221ec90bcd562340be4fd21921547b5d6ee3ffdfe31fa"
 metafile = true
 
 [[files]]
-file = "mods/low-fire.toml"
-hash = "2105a8d6c6dd27afcc5a2e84246e492542aa09b388ef693a51357f332bd3ad66"
-metafile = true
+file = "mods/low-fire.toml.disabled"
+hash = "ff379653b4e04ec63579fde2b3611fca6e32eefdf9bdc89653879e1339c71a89"
 
 [[files]]
 file = "mods/mixintrace.toml"
