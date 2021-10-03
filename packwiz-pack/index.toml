@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/animatica.toml"
+hash = "0f832605c4764af1bf759fd26fb11bbe23b9eb3580f75a8999d5431a0ea98738"
+metafile = true
+
+[[files]]
 file = "mods/bobby.toml"
 hash = "b991305d41a724191ca442c7af916b2203ad7385ce0a90b46ed1f0f39af490ff"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.toml"
 hash = "949e0de2896ac82175518eb576da1de72ba3992a1f895d7ea35c321e0dc382e1"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem.toml"
+hash = "993aebad8c508712972999680cb2356bd3e435602535214f81ad2f2d8448fc8d"
 metafile = true
 
 [[files]]
@@ -116,17 +126,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmanager.toml"
-hash = "acdca2599a002f84d168f4106859cf65c73f8a305bb81e11e898f0e92595720d"
+hash = "0aad2e2b4a66028bc41ab1f7a4610d2b6cefb42ae51a673371928c4c3b7cef51"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "c4dc43e97d2fd9399a02084cef47a1e0989c9f0e45fc79922f934b047dd22534"
+hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
 metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "d63993a4644aa7ad6e704063a7c3c08aed0cba8942b9c6fe6f0b6d0f2daba753"
+hash = "fe74a25b12c31d2b21c940eadc74b89ecf1d814cbb2c11276048032ccdba0590"
 metafile = true
 
 [[files]]
