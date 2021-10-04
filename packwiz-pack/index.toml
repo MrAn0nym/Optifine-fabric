@@ -155,6 +155,11 @@ hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
 metafile = true
 
 [[files]]
+file = "mods/horsestatsvanilla.toml"
+hash = "a87188769cdfbf52cabcc2a6d7f0a4f6c9c5281ba6c95c8477bbe0f8bc5adc72"
+metafile = true
+
+[[files]]
 file = "mods/hydrogen.toml"
 hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
 metafile = true
@@ -288,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "994eda116254db865384ca9ebb0c4e9f459edbac67483b2f1582955618a5c6dd"
+hash = "cbfd2f0c65a616c3f7093f66a22b178f3be81bff333d8b6a9849f5fc5ef79ad7"
 metafile = true
 
 [[files]]
